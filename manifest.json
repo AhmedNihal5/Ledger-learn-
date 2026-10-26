@@ -1,10 +1,24 @@
 {
-  "name": "LedgerLearn \u2014 CA & CMA Study Hub",
+  "name": "LedgerLearn — CA & CMA Study Hub",
   "short_name": "LedgerLearn",
   "description": "CA and CMA study materials, previous paper links and MCQ practice.",
   "start_url": "./index.html",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#f6f8f5",
   "theme_color": "#173f35",
-  "icons": []
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
 }
